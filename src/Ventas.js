@@ -115,7 +115,7 @@ function Ventas() {
                                         <h2>Productos</h2>
                                     </div>
                                     {
-                  productos.map((u) => (
+                  listaProductos.map((u) => (
                                     <div className="container mb-2">
 
                                         <div className="card mb-2 " >
